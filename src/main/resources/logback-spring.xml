@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
     <contextName>community</contextName>
+<<<<<<< HEAD
     <property name="LOG_PATH" value="/Users/Pking/Downloads/nowcoder/"/>
+=======
+    <property name="LOG_PATH" value="/Users/pengquan/Downloads/nowcoder/"/>
+>>>>>>> d9f15d46edaef0c28d13b0f75cf9201d01c92a56
     <property name="APPDIR" value="community"/>
 
     <!-- error file -->
